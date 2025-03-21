@@ -6,7 +6,7 @@ body {
 .carousel-item img {
     width: 100%;
     height: auto;
-    max-height: 400px;
+    max-height:500px;
     object-fit: cover;
 }
 

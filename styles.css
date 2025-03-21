@@ -126,3 +126,7 @@ body {
     margin-bottom: 10px;
     border: 3px solid #007bff;
 }
+
+.navbar-brand {
+    font-size:23px
+}
